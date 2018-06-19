@@ -4,11 +4,14 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## [3.1.1] - 2018-06-11
+### Added
+- Fixing upgrade issues
+- Merge crash fixes from 3.0.4 and 3.0.5
 
-## [3.1.0] - 2018-09-03
+## [3.1.0] - 2018-03-09
 ### Added
 - Support for beacon network sharing
-
 
 ## [3.0.5] - 2018-04-23
 ### Fixed
