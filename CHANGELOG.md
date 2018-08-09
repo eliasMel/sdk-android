@@ -5,7 +5,16 @@ All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
 
-## [3.1.0] - 2018-09-03
+## [3.1.2] - 2018-08-09
+### Fixed
+- Making sure beacons scanners does not stop after app restart
+
+## [3.1.1] - 2018-06-11
+### Added
+- Fixing upgrade issues
+- Merge crash fixes from 3.0.4 and 3.0.5
+
+## [3.1.0] - 2018-03-09
 ### Added
 - Support for beacon network sharing
 
@@ -13,15 +22,13 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 ### Fixed
 - fixing bugs and observed crashes
 
-
 ## [3.0.4] - 2018-03-26
 ### Fixed
 - fixing bugs and observed crashes
 
-
 ## [3.0.3] - 2018-02-27
 ### Fixed
-- fixing a crash android 5 
+- fixing a crash android 5
 
 ## [3.0.2] - 2018-01-20
 ### Added
